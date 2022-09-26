@@ -70,6 +70,17 @@ Las siguientes son las preguntas que se pretenden responder con la información 
 # Resultados
 
 ## ¿Cuáles son las 5 mejores y las 5 peores películas para la crítica?
+Las cinco mejores películas puntuadas por la audiencia son Frozen Planet, The Shawshank Redemption, The Shawshank Redemption, The War, Baseball. 
+Por otro lado, las cinco peores películas puntuadas por la audiencia son Krampus: The Christmas Devil, Starship, Gunday, Dragon Fighter, The Hounds
+
+
 ## ¿Cuál es el promedio de duración de las películas por cada género?
+El promedio de duración para cada película y cortometraje oscila entre los 128 minutos y 18 minutos para los cortometrajes.
+
+
 ## ¿Cuántas películas se hacen cada año en cada país? ¿Es equitativa la distribución?
+USA es el país que presenta mayor cantidad de películas por año. Por lo tanto, no es equitativa su distribución.
+
+
 ## ¿Cualés son las películas más nominadas y más ganadores de premios en la historia?
+Las películas con mayor número de nominaciones obtuvieron la mayor cantidad de veces ganadas, entre ellas se encuentran las siguientes películas. Gravity, The Grand Budapest Hotel, 12 Years a Slave, Precious, Birdman: Or (The Unexpected Virtue of Ignorance)
